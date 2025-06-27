@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 import time
 import google.generativeai as genai
 import re
